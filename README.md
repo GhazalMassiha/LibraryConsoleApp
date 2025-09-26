@@ -37,4 +37,4 @@ GitHub: [GhazalMassiha](https://github.com/GhazalMassiha)
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/GhazalMassiha/YourRepoName.git
-   cd YourRepoName
+   cd LibraryConsoleApp
